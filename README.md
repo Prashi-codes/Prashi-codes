@@ -104,4 +104,4 @@
 
 \<p align="left">   \<a href="[https://github.com/Prashi-codes](https://github.com/Prashi-codes)">     \<img src="[https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)"/>   \</a>   \<a href="[https://www.linkedin.com/in/prashanth-kr-454b42379/](https://www.linkedin.com/in/prashanth-kr-454b42379/)">     \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)"/>   \</a>   \<a href="[https://www.instagram.com/iamprashii/](https://www.instagram.com/iamprashii/)">     \<img src="[https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=flat\&logo=instagram\&logoColor=white)"/>   \</a> \</p>
 
-\<h3 align="center">"Building. Learning. Improving. Repeat."\</h3>
+\<h3 align="center">"Building. Learning. Improving. Repeating."\</h3>
