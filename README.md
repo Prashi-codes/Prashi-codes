@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Prashanth KR</h1>
 <h3 align="center">Full Stack Developer | Software Developer | AI Enthusiast 🇮🇳</h3>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=Prashi-codes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
