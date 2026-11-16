@@ -26,6 +26,14 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub Statistics" />
+</p>
+
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prashi-codes&show_icons=true&locale=en&theme=tokyonight" alt="Prashi-codes" />
 </p>
