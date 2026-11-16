@@ -75,7 +75,7 @@
 - **Palm Recognition System** – Biometric recognition project developed for a client.
 - **B.COMmunity** – Learning platform for commerce students.
 - **VOX** – Experimental Android voice assistant project.
-- **Black-Line Follower Robot - An IOT Project Exhibition in BIHE (2nd Place).
+- **Black-Line Follower Robot** – An IOT Project Exhibition in BIHE (2nd Place).
 
 ---
 
@@ -93,4 +93,4 @@
   </a>
 </p>
 
-<h3 align="center">"Building. Learning. Improving. Repeating."</h3>
+<h3 align="center">"Building. Learning. Improving. Repeat."</h3>
