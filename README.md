@@ -15,17 +15,12 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashi-codes&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=Prashi-codes&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashi-codes&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-</p>
 
 ---
 
