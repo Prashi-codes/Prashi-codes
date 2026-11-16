@@ -9,7 +9,7 @@
 - 🎓 Final-year BCA student at Bapuji Institute of Hi-Tech Education.
 - 👨‍💻 Building **FoodResQ – AI-powered Surplus Food Platform**.
 - 🚀 Interested in Full Stack Development, AI and Software Engineering.
-- 📑 Check out my [Resume]([YOUR_RESUME_LINK](https://drive.google.com/file/d/1jbSpFmG3m0PYYlvYBMC_s2WW-99lQbxy/view?usp=sharing)).
+- 📑 Check out my [Resume](https://drive.google.com/file/d/1jbSpFmG3m0PYYlvYBMC_s2WW-99lQbxy/view?usp=sharing).
 - 💻 Explore my projects on [GitHub](https://github.com/Prashi-codes).
 
 ---
