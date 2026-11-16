@@ -11,6 +11,8 @@
 - 🚀 Interested in Full Stack Development, AI and Software Engineering.
 - 📑 Check out my [Resume](https://drive.google.com/file/d/1jbSpFmG3m0PYYlvYBMC_s2WW-99lQbxy/view?usp=sharing).
 - 💻 Explore my projects on [GitHub](https://github.com/Prashi-codes).
+- 💬 Ask me about **Apps, Backend and Artificial Intelligence**
+- 📫 Reach out to me at **iamprashikr@gmail.com**
 
 ---
 
