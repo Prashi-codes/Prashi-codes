@@ -1,12 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Prashanth KR</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast 🇮🇳</h3>
-
+<h2 align="left">About me:</h2>
 <p>
   <img src="https://komarev.com/ghpvc/?username=Prashi-codes&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
 
-- 🎓 Final-year BCA student at Bapuji Institute of Hi-Tech Education.
 - 👨‍💻 Building **FoodResQ – AI-powered Surplus Food Platform** [FoodResQ](https://github.com/Prashi-codes/FoodResQ).
 - 🚀 Interested in Full Stack Development, AI and Software Engineering.
 - 📑 Check out my [Resume](https://drive.google.com/file/d/1jbSpFmG3m0PYYlvYBMC_s2WW-99lQbxy/view?usp=sharing).
@@ -18,7 +17,7 @@
 
 <h3>GitHub Contributions</h3>
 
-**71 contributions in the last year**
+**80 contributions in the last year**
 
 <p>
   <img src="https://streak-stats.demolab.com?user=Prashi-codes&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
